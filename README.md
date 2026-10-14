@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Kathiresan%20K&fontSize=80&fontAlignY=35&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=skyblue&height=250&section=header&text=Kathiresan%20K&fontSize=80&fontAlignY=35&animation=twinkling"/>
 
 <h1>
 Hi 👋 I'm Kathiresan K
